@@ -1,0 +1,17 @@
+body{
+  background-image: url(http://theartmad.com/wp-content/uploads/2015/09/Best-Hd-Wallpapers-2.jpg);
+  background-size: cover;
+}
+
+.h1{
+  font-size: 18px;
+  color: white;
+
+}
+
+h2{
+  text-align: center;
+  margin-bottom: 10%;
+  color: aqua;
+
+}
